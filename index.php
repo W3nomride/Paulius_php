@@ -1,3 +1,3 @@
 <?p
-print 'veikia';
+print 'veikia blet tikrai';
 p?>
